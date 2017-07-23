@@ -5,3 +5,5 @@ Help
 Seekway
 
 init
+
+internet
